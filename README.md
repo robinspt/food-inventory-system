@@ -40,7 +40,7 @@
     ```
 3.  安装依赖：
     ```bash
-    pip install -r requirements.txt # 如果有 requirements.txt 文件
+    pip install -r requirements.txt
     # 或者手动安装 Flask 和 Flask-CORS
     pip install Flask Flask-CORS
     ```
@@ -70,7 +70,7 @@
     ```bash
     npm run dev
     ```
-    前端将在 `http://localhost:5174` (或类似地址) 运行。
+    前端将在 `http://localhost:5174` 运行。
 
 ## 开始
 
