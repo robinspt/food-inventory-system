@@ -64,7 +64,7 @@
     ```bash
     npm install
     # 或手动安装所需库：
-    # npm install element-plus vue-router axios
+    # npm install element-plus vue-router axios date-fns
     ```
 3.  启动 Vue 开发服务器：
     ```bash
